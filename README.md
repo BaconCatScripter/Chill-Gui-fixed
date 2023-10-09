@@ -7,3 +7,4 @@ All that had to be done was fixing parenting the billboard gui to players head a
 I know my code isnt great lol<br>
 Originally from: https://pastebin.com/wLnNYffV<br>
 Thank you all, use it for whatever <br>
+(working as of 09/10/2023)
