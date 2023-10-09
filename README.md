@@ -6,4 +6,4 @@ All that had to be done was fixing parenting the billboard gui to players head a
 Originally from: https://pastebin.com/wLnNYffV<br>
 (working as of 09/10/2023) <br>
 
-Loadstring for this script should be: loadstring(game:HttpGet(('https://raw.githubusercontent.com/T38a/Chill-Gui-fixed/main/script.lua')))()
+I will make updated version eventually so you dont need to replace workspace:WaitForChild() with your name every time<br>
