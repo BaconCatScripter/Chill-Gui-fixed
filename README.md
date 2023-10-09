@@ -1,4 +1,4 @@
-# Chill-Gui-fixed-FE-
+# Chill gui fixed-
 TO GET THIS TO WORK, YOU HAVE TO CHANGE workspace:WaitForChild("name") TO THE ROBLOX ACCOUNT YOU ARE USING THIS SCRIPT ON. (Found on line 2) <br>
 A quick fix for the popular chill gui script.<br>
 
