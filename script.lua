@@ -1,5 +1,5 @@
 local m = game.Players.LocalPlayer
-local char = workspace:WaitForChild("ScriptUpload1567")
+local char = workspace:WaitForChild("name")
 bypass = "limbs"
 local PLAYR = game:GetService("Players")
 local PLAGER = PLAYR.LocalPlayer or PLAYR.PlayerAdded:Wait()
@@ -37,7 +37,7 @@ end
 local Chillmusic = Instance.new("Sound", char)
 Chillmusic.Parent = char
 Chillmusic.Volume = 8
-Chillmusic.SoundId = "rbxassetid://1221694420"
+Chillmusic.SoundId = "rbxassetid://1842333602"
 Chillmusic.Looped = true
 Chillmusic:Play()
 
