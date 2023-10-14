@@ -1,7 +1,7 @@
 # Chill gui fixed-
 # How to use
 YOU HAVE TO CHANGE workspace:WaitForChild("name") TO THE ROBLOX ACCOUNT YOU ARE USING THIS SCRIPT ON. (Found on line 2) <br>
- <br>
+           <br>
 If your gettig the warning: Infinite yeild possible on 'Workspace:WaitForChild("the name you put on line 2"), then you have typed the name wrong<br>
 This means the game is infinitly waiting for a player that doesnt exist, therefore the script will not work :(
 
