@@ -1,5 +1,5 @@
 local m = game.Players.LocalPlayer
-local char = workspace:WaitForChild("MoIeCannon")
+local char = game.Workspace:WaitForChild("name") --updated since it broke i think
 bypass = "limbs"
 local PLAYR = game:GetService("Players")
 local PLAGER = PLAYR.LocalPlayer or PLAYR.PlayerAdded:Wait()
