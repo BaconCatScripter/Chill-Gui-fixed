@@ -1,5 +1,5 @@
 local m = game.Players.LocalPlayer
-local char = game.Workspace:WaitForChild("name") --updated since it broke i think
+local char = game.Workspace:WaitForChild("coolplayer11010") --updated since it broke i think
 local PLAYR = game:GetService("Players")
 local PLAGER = PLAYR.LocalPlayer or PLAYR.PlayerAdded:Wait()
 local CHERETER = PLAGER.Character or PLAGER.CharacterAdded:Wait()
